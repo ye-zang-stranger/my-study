@@ -1,0 +1,12 @@
+# 编译产物（Dev-C++ 生成的 exe / 中间文件）
+*.exe
+*.o
+*.obj
+
+# Dev-C++ 整个安装目录（IDE + MinGW 编译器，不属于你的代码）
+Dev-Cpp/
+
+# 临时文件
+*.tmp
+*.log
+~$*
